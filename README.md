@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Angular, Ionic, Typescript, JavaScript, Python**
 
-- 📫 How to reach me **rashidwebco@gmail.com**
+- 📫 How to reach me **rashiofficialemail@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
